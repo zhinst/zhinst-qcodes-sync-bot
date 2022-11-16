@@ -1,0 +1,7 @@
+click==8.0.3
+Flask==2.0.2
+Jinja2==3.0.3
+PyGithub==1.55
+gitpython==3.1.29
+virtualenv==20.16.7
+cryptography==38.0.3
